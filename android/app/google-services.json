@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46674278567",
+    "project_id": "e-trade-actions",
+    "storage_bucket": "e-trade-actions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46674278567:android:2af7662410c09f0bf68382",
+        "android_client_info": {
+          "package_name": "com.example.t_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuyvgjns9i6ux9mvtKheqvr685ChxOp7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
